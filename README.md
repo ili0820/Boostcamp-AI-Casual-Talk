@@ -1,5 +1,5 @@
 # Boostcamp-AI-Casual-Talk
----
+
 ### 개요
 * 네이버 AI랩의 하정우 소장님의 [Weekly Arxiv Casual Talk](https://github.com/jungwoo-ha/WeeklyArxivTalk)에 자극받아 시작하게 된 잡담 세션입니다.
 * 매주 1시간 부담없이 가볍게 AI 관련 이야기를 합니다.
