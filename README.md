@@ -1,4 +1,4 @@
-# 하라는 공부는 안하고
+# Boostcamp-AI-Casual-Talk
 ---
 ### 개요
 * 네이버 AI랩의 하정우 소장님의 [Weekly Arxiv Casual Talk](https://github.com/jungwoo-ha/WeeklyArxivTalk)에 자극받아 시작하게 된 잡담 세션입니다.
