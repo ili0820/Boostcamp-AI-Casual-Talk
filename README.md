@@ -10,6 +10,6 @@
 * 정규 모더레이터: [이호진](https://github.com/ili0820) 김인정 조영하 정인식 엘라 [박성호](https://github.com/naem1023)
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
-
+### 다시보기
 **금주: [1회차:20220323 Youtube 링크](https://www.youtube.com/watch?v=JbiY3or35Us)**
 
