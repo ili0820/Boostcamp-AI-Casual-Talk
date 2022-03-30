@@ -12,4 +12,5 @@
 
 ### 다시보기
 * **ep1: [1회차:20220323 Youtube 링크](https://www.youtube.com/watch?v=JbiY3or35Us)**
+* **ep1: [2회차:20220330 Youtube 링크](https://youtu.be/KVC0PrmF64k)**
 
