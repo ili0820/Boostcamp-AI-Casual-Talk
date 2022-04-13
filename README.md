@@ -11,6 +11,19 @@
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
 ### 다시보기
+
+
+* **ep3: [3회차:20220413 Youtube 링크](https://youtu.be/f7YWftkCRXY)**
+  * PaLM / Training Compute-Optimal Large Language Models/MultiMAE: Multi-modal Multi-task Masked Autoencoders 
+  * Recovering individual emotional states from sparse ratings using collaborative filtering
+  * Face scanner Clearview AI aims to branch out beyond police/ DALL.E2 /Salesforce CodeGen: Program Using Your Voice
+
+* **ep2: [2회차:20220330 Youtube 링크](https://youtu.be/KVC0PrmF64k)**
+  * GTC SORDI/Recommendation as Language Processing (RLP):P5 /Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors
+  * GTC 2022 review: Chelsea Finn / Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments
+  * Ukraine uses facial recognition to identify dead Russian soldiers, minister says/Revisiting Neighborhood-based Link Prediction for Collaborative Filtering
+  * CLIP Guidance Diffusion model/ novel-illustration-disco-diffusion
+
 * **ep1: [1회차:20220323 Youtube 링크](https://www.youtube.com/watch?v=JbiY3or35Us)** 
     * 이루다/Stanford AI Index Report 2022/FORCE: A Framework of Rule-Based Conversational Recommender System
     * Aesthetic preference for art can be predicted from a mixture of low- and high-level visual features
@@ -18,9 +31,6 @@
     * GopherCite: Teaching language models to support answers with verified quotes/Using Deep Learning to Annotate the Protein Universe/ProteInfer: deep networks for protein functional inference
     * Web 3.0
 
-* **ep2: [2회차:20220330 Youtube 링크](https://youtu.be/KVC0PrmF64k)**
-  * GTC SORDI/Recommendation as Language Processing (RLP):P5 /Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors
-  * GTC 2022 review: Chelsea Finn / Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments
-  * Ukraine uses facial recognition to identify dead Russian soldiers, minister says/Revisiting Neighborhood-based Link Prediction for Collaborative Filtering
-  * CLIP Guidance Diffusion model/ novel-illustration-disco-diffusion
+
+
 
