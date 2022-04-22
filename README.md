@@ -11,7 +11,11 @@
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
 ### 다시보기
-
+* **ep4: [4회차:20220420 Youtube 링크](https://www.youtube.com/watch?v=f7YWftkCRXY)**
+  * Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results/Neighborhood Attention Transformer
+  * Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning
+  * Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields
+  * Transformers4Rec/RQ Transformer/ Grad Cache
 
 * **ep3: [3회차:20220413 Youtube 링크](https://youtu.be/f7YWftkCRXY)**
   * PaLM / Training Compute-Optimal Large Language Models/MultiMAE: Multi-modal Multi-task Masked Autoencoders 
