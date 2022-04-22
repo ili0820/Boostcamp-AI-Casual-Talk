@@ -7,7 +7,7 @@
 * 얕고 넓게가 목적인 잡담입니다! 논문 리뷰와 다르게 디테일, 수식적 부분에 대한 설명은 부족 할 수도 있습니다.
 ### 운영방법
 * 매주 수요일 밤 10시~ 11시
-* 정규 모더레이터: [이호진](https://github.com/ili0820) 김인정 조영하 정인식 [박성호](https://github.com/naem1023)
+* 정규 모더레이터: [이호진](https://github.com/ili0820) [김인정](https://github.com/ijkimmy) [조영하](https://github.com/hawe66) [정인식](https://github.com/sunbi-s) [박성호](https://github.com/naem1023)
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
 ### 다시보기
