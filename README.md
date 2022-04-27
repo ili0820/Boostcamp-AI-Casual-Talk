@@ -11,6 +11,11 @@
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
 ### 다시보기
+* **ep5: [4회차:20220427](https://github.com/ili0820/Boostcamp-AI-Casual-Talk/issues/6)
+  * StyleGAN-Human: A Data-Centric Odyssey of Human Generation/Photorealistic Monocular 3D Reconstruction of HumansWearing Clothing
+  * Performer: A Novel PPG to ECG Reconstruction Transformer For a Digital Biomarker of Cardiovascular Disease Detection
+  * Prefrontal cortex as a meta-reinforcement learning system
+  * 크래프톤 딥러닝 가능성 보여준 퍼즐게임 '푼다' / 세계 최초, 강화학습 AI 기술 기반 새로운 MMORPG 콘텐츠를 제시하다
 * **ep4: [4회차:20220420 Youtube 링크](https://www.youtube.com/watch?v=f7YWftkCRXY)**
   * Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results/Neighborhood Attention Transformer
   * Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning
