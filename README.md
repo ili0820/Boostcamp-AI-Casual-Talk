@@ -11,7 +11,7 @@
 * 소개 하고 싶은 내용이 있다면 Issue에 링크, 자료 등을 올려주시고 DM이나 줌에서 반응 해주시면 발언권을 드리겠습니다!
 
 ### 다시보기
-* **ep5: [4회차:20220427](https://github.com/ili0820/Boostcamp-AI-Casual-Talk/issues/6)
+* **ep5: [5회차:20220427](https://github.com/ili0820/Boostcamp-AI-Casual-Talk/issues/6)**
   * StyleGAN-Human: A Data-Centric Odyssey of Human Generation/Photorealistic Monocular 3D Reconstruction of HumansWearing Clothing
   * Performer: A Novel PPG to ECG Reconstruction Transformer For a Digital Biomarker of Cardiovascular Disease Detection
   * Prefrontal cortex as a meta-reinforcement learning system
